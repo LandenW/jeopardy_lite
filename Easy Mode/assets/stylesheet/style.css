@@ -1,0 +1,22 @@
+body {
+  background-color: #0010D9;
+  color: white;
+  font-size: 32px;
+  margin: 20px;
+}
+
+button {
+  color: black;
+}
+
+input {
+  color: black;
+}
+
+form {
+  padding-top: 75px;
+}
+
+h1 {
+  padding: 0 0 50px 0;
+}
